@@ -80,3 +80,22 @@ Content-Type: application/x-www-form-urlencoded
 Content-Length: ...
 
 uname=admin&pass=admin123&login=login
+
+
+✅ Mitigation Recommendations
+
+Use HTTPS for all authentication pages
+Implement TLS encryption site-wide
+Avoid transmitting credentials in plain text
+Employ secure session handling and strong password policies
+
+✅ Conclusion
+
+This task provided hands-on experience with:
+Network traffic analysis using Wireshark
+Understanding HTTP protocol weaknesses
+Real-world demonstration of insecure login transmission
+
+🙏 Acknowledgment
+
+Thanks to Future Intern for the opportunity to explore real-world network vulnerabilities and for supporting hands-on cybersecurity learning.
